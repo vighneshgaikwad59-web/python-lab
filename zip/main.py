@@ -1,5 +1,5 @@
 def main():
-    print("Hello from python!")
+    print("Hello from zip!")
 
 
 if __name__ == "__main__":
